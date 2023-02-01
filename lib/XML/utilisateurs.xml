@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<utilisateurs>
+    <utilisateur>
+        <Nom>Urbain</Nom>
+        <Prenom>Matthew</Prenom>
+        <Email>FVSFE@gmail.com</Email>
+        <Age>22</Age>
+        <Sexe>homme</Sexe>
+        <Langue>fran&#xE7;ais</Langue>
+        <Jeux>
+            <Jeu>Minecraft</Jeu>
+            <Jeu>League Of Legends</Jeu>
+        </Jeux>
+    </utilisateur>
+</utilisateurs>
+<utilisateurs><utilisateur><Nom>Urbain</Nom><Prenom>Matthew</Prenom><MotdePasse>ffff</MotdePasse><Email>mudracos54@gmail.com</Email><Age>22</Age><Sexe>homme</Sexe><Langue>fran&#xE7;ais</Langue><Jeux><Jeu>League Of Legends</Jeu><Jeu>Call Of Duty</Jeu></Jeux><Explications>je sais pas</Explications><Images/></utilisateur></utilisateurs>
+

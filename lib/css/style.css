@@ -1,0 +1,59 @@
+#lrdg{
+    display: block;
+    margin: 0 auto;
+    width: 1280px;
+    height: 570px;
+}
+
+ul {
+    display : flex;
+    column-gap: 15px;
+}
+
+form {
+    width: 500px;
+    border: 15px solid #4b1a06;
+    padding: 50px;
+    margin-left: 500px;
+    background-color: #a25a4c;
+    font-weight: bold;
+
+}
+nav {
+    width: 500px;
+    border: 15px solid #4b1a06;
+    padding: 5px;
+    margin-left: 500px;
+    background-color: #a25a4c;
+    font-weight: bold;
+}
+#recap{
+    width: 500px;
+    background-color: #a25a4c;
+    border: 15px solid #4b1a06;
+    margin-left: 500px;
+
+}
+
+html{
+    background-image: url("https://i.pinimg.com/originals/07/ba/bc/07babccad575466d59ff0f4fc64cd646.jpg");
+
+}
+
+#pdpuser{
+    max-width : 500px;
+    max-height : 250px;
+}
+
+.question{
+    text-decoration: underline;
+}
+p{
+    font-weight: bold;
+}
+
+.titre{
+    margin-left: 500px;
+    font-weight: bold;
+    text-decoration: underline;
+}
